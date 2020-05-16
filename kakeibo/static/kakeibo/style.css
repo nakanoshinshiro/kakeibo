@@ -1,0 +1,4 @@
+select.form-control:not([size]):not([multiple]){
+        height: calc(3.875rem + 2px);
+  }
+
